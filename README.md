@@ -1,15 +1,24 @@
 # Acerca de mí
 
-Economista y financiera certificada en análisis de datos con sólida experiencia en extracción, limpieza y modelado de datos estratégicos. 
+Soy **Ingeniero Electrónico** con formación complementaria como **Data Scientist**, comprometido con transformar datos en decisiones estratégicas y soluciones tecnológicas de alto impacto. Combino una sólida base técnica en hardware con habilidades analíticas para desarrollar sistemas inteligentes, automatizados y eficientes.
 
-Genero insights accionables que optimizan procesos y apoyan la toma de decisiones estratégicas, logrando ahorros significativos de tiempo mediante la automatización.
+Mi perfil destaca por la capacidad de identificar oportunidades de mejora, optimizar procesos y generar valor mediante el uso de datos, tanto en entornos operativos como de negocio. He liderado y colaborado en proyectos donde la analítica, la automatización y la innovación tecnológica han sido clave para lograr resultados tangibles.
 
-### Habilidades tecnológicas
-- Análisis y gestión de datos utilizando **Excel / SQL / Python / R**
-- Visualización de datos y narración de historias usando **Tableau**
+Con una mentalidad autodidacta y enfoque orientado a resultados, ofrezco soluciones efectivas y escalables que impulsan la eficiencia, la calidad y la toma de decisiones basadas en datos.
 
-### Habilidades blandas
-Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo en equipo | Orientación a resultados | Organización | Proactividad | Atención al detalle | Optimización de Procesos
+## 🛠️ Habilidades tecnológicas
+
+- Programación y análisis con **Python**: `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`, `Seaborn`
+- Manejo y consulta de datos con **SQL**
+- Visualización de datos con **Tableau** y **Power BI**
+- Automatización y control mediante **microcontroladores, sensores e interfaces electrónicas**
+- Uso de plataformas como **Jupyter**, **GitHub**, **Camstar** y **ServiceNow**
+
+## 💡 Habilidades blandas
+
+Pensamiento analítico | Adaptabilidad técnica | Resolución de problemas  
+Comunicación efectiva | Colaboración interdisciplinaria | Enfoque autodidacta  
+Atención al detalle | Mejora continua
 
 <!-- PARA HACER QUE EL LINK ABRA EN OTRA PESTAÑA
 <a href="https://www.linkedin.com/in/marielalegoma/" target="_blank">
