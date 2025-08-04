@@ -71,9 +71,9 @@ En el sector de telecomunicaciones, anticipar la pérdida de clientes permite re
 
 ### Visualizaciones destacadas
 1. **Distribución de cancelación según duración del contrato:** Observamos que quienes cancelaron suelen contratar en su mayoría 1 mes, al igual que quienes no cancelan. Sin embargo, quienes permanecen suelen también contratar por periodos de 1 año y 2 años, mientras que los que cancelan en su minoría contratan en dichos periodos.
-![Contract Period Histogram](/assets/img/Interconnect_Telecom_clientes_cancelacion_tipo_membresia.png)
+![Contract Period Histogram](asset/img/Interconnect_Telecom_clientes_activos_vs_cancelados.png)
 2. 1. **Distribución de clases:** Se observa un claro desbalance entre clases, lo cual puede afectar el rendimiento del modelo. Será necesario aplicar técnicas de balanceo como sobremuestreo o submuestreo.
-![Distribución de clases](/assets/img/Interconnect_Telecom_clientes_activos_vs_cancelados.png)
+![Distribución de clases](assets/img/Interconnect_Telecom_clientes_activos_vs_cancelados.png)
 
 ## Predicción de Demanda de Taxis — Sweet Lift Taxi
 
