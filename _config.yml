@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Rafael Raya Tapia
 logo: asset/img/profile.jpeg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: ¡Hola! Te doy la bienvenida a mi portafolio de proyectos de Análisis de Datos.
+show_downloads: false
+#google_analytics:
 theme: jekyll-theme-minimal
