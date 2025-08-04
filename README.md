@@ -110,8 +110,8 @@ El tiempo total de ejecución fue de **0.10 segundos**, demostrando que el model
 > Esta solución permite prever con anticipación la demanda horaria de taxis en aeropuertos, optimizando la **asignación de unidades**, reduciendo los **tiempos de espera** y mejorando la **experiencia del usuario y la eficiencia operativa**.
 
 ### Visualizaciones destacadas
-Gráficas de dispersión, histogramas, matriz de correlación, curvas ROC, importancia de características y comparación de modelos de clasificación.
-
+1. **Análisis de componentes temporales:** En la primera gráfica se observa una clara tendencia creciente en la serie. La segunda muestra una estacionalidad recurrente con un ciclo aproximado de 2 meses, mientras que la tercera revela patrones estacionales diarios con una periodicidad de 2 días.
+![Contract Period Histogram](asset/img/estacionalidad.png)
 
 ## 🎮 Predicción de Éxito de Videojuegos — Ice Store
 
@@ -159,4 +159,11 @@ Este análisis permitió **detectar proyectos con alto potencial comercial y opt
 - Los hallazgos pueden utilizarse en estrategias de **desarrollo, distribución y promoción de videojuegos**, mejorando la segmentación y maximizando el ROI.
 
 ### Visualizaciones destacadas
-Gráficas de dispersión, histogramas, matriz de correlación, curvas ROC, importancia de características y comparación de modelos de clasificación.
+1. **Relación entre ventas y reseñas:** El gráfico revela una correlación moderada entre las calificaciones de usuarios y críticos con las ventas, sugiriendo que mejores reseñas pueden influir positivamente en el rendimiento comercial de los videojuegos.
+![Contract Period Histogram](asset/img/reseñas_ventas.png)
+
+2. **Ventas por género de videojuego:** Esta visualización destaca que los géneros como Acción y Deportes concentran la mayor parte de las ventas, mientras que otros como Puzzle o Estrategia presentan un menor volumen de mercado.
+![Contract Period Histogram](asset/img/venta_dejuegos_por_genero.png)
+
+3. **Rentabilidad por consola:** El gráfico compara las plataformas más populares, evidenciando que consolas como PlayStation y Xbox han generado mayores ingresos globales, lo que indica una mayor rentabilidad en comparación con otras plataformas menos dominantes.
+![Contract Period Histogram](asset/img/videojuegos_retabilidad.png)
