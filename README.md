@@ -130,8 +130,6 @@ Este análisis permitió **detectar proyectos con alto potencial comercial y opt
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
-
 ## 📊 Análisis y procesamiento de datos
 
 - Limpieza y transformación del dataset, estandarizando tipos de datos y manejando valores ausentes, incluyendo casos como `TBD`.
