@@ -109,3 +109,59 @@ El tiempo total de ejecución fue de **0.10 segundos**, demostrando que el model
 
 ### Visualizaciones destacadas
 Gráficas de dispersión, histogramas, matriz de correlación, curvas ROC, importancia de características y comparación de modelos de clasificación.
+
+
+## 🎮 Predicción de Éxito de Videojuegos — Ice Store
+
+### 🧩 Descripción
+Proyecto desarrollado para la tienda online **Ice**, especializada en la venta global de videojuegos. Se realizó un análisis completo para **identificar patrones que predicen si un videojuego será exitoso o no**, utilizando datos abiertos de ventas, géneros, plataformas, reseñas de usuarios y expertos.
+
+Este análisis permitió **detectar proyectos con alto potencial comercial y optimizar campañas publicitarias** orientadas al año 2017, mejorando así la toma de decisiones en planeación de lanzamientos.
+
+---
+
+#### 🛠️ Herramientas y tecnologías
+
+![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-130754?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/seaborn-3b4cc0?style=for-the-badge&logo=python&logoColor=white)  
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 📊 Análisis y procesamiento de datos
+
+- Limpieza y transformación del dataset, estandarizando tipos de datos y manejando valores ausentes, incluyendo casos como `TBD`.
+- Generación de una nueva variable de **ventas globales** (suma de ventas por región: NA, EU, JP y otras).
+- Análisis de más de 16 años de datos para detectar tendencias clave por género, plataforma y clasificación ESRB.
+
+---
+
+## 📈 Insights clave
+
+- **PS4 y XOne** dominaban el mercado en 2016, mientras plataformas como **PS2** presentaban un claro declive.
+- Los géneros más rentables fueron **Acción**, **Deportes** y **Disparos**, mientras que géneros como **Aventura** tuvieron menores ventas.
+- La clasificación **ESRB** tuvo impacto variable según la región, siendo más influyente en **Norteamérica**.
+
+---
+
+## 🔬 Evaluación estadística
+
+- Análisis de correlaciones entre reseñas (usuarios y críticos) y ventas: las reseñas positivas impactan de forma moderada en las ventas.
+- Se probaron hipótesis estadísticas para evaluar:
+  - Diferencias entre calificaciones de usuarios en **PC vs Xbox One**.
+  - Diferencias entre géneros **Acción vs Deportes**.
+- Se utilizó una **prueba t de Student** con nivel de significancia definido por el análisis.
+
+---
+
+## ✅ Resultados y aplicación
+
+- Se construyó un perfil de usuario por región (**NA, EU, JP**) basado en plataformas favoritas, géneros más vendidos y sensibilidad a la clasificación ESRB.
+- Los hallazgos pueden utilizarse en estrategias de **desarrollo, distribución y promoción de videojuegos**, mejorando la segmentación y maximizando el ROI.
+
+### Visualizaciones destacadas
+Gráficas de dispersión, histogramas, matriz de correlación, curvas ROC, importancia de características y comparación de modelos de clasificación.
