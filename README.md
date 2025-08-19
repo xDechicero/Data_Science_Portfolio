@@ -75,6 +75,8 @@ En el sector de telecomunicaciones, anticipar la pérdida de clientes permite re
 2. **Distribución de clases:** Se observa un claro desbalance entre clases, lo cual puede afectar el rendimiento del modelo. Será necesario aplicar técnicas de balanceo como sobremuestreo o submuestreo.
 ![Distribución de clases](asset/img/Interconnect_Telecom_clientes_activos_vs_cancelados.png)
 
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/xDechicero/Customer-Churn-Prediction-Interconnect).**
+
 ## Predicción de Demanda de Taxis — Sweet Lift Taxi
 
 En el competitivo sector del transporte urbano, anticiparse a los picos de demanda es clave para **mejorar la eficiencia operativa**, **incrementar los ingresos** y **optimizar la experiencia del cliente**. En este proyecto, desarrollé un modelo de predicción horaria de pedidos de taxi con el objetivo de **anticipar la demanda en aeropuertos** y así facilitar la asignación eficiente de unidades durante las horas pico.
@@ -112,6 +114,8 @@ El tiempo total de ejecución fue de **0.10 segundos**, demostrando que el model
 ### Visualizaciones destacadas
 1. **Análisis de componentes temporales:** En la primera gráfica se observa una clara tendencia creciente en la serie. La segunda muestra una estacionalidad recurrente con un ciclo aproximado de 2 meses, mientras que la tercera revela patrones estacionales diarios con una periodicidad de 2 días.
 ![Contract Period Histogram](asset/img/estacionalidad.png)
+
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/xDechicero/Predicci-n-de-Demanda-de-Taxis-Sweet-Lift-Taxi).**
 
 ## 🎮 Predicción de Éxito de Videojuegos — Ice Store
 
@@ -167,3 +171,11 @@ Este análisis permitió **detectar proyectos con alto potencial comercial y opt
 
 3. **Rentabilidad por consola:** El gráfico compara las plataformas más populares, evidenciando que consolas como PlayStation y Xbox han generado mayores ingresos globales, lo que indica una mayor rentabilidad en comparación con otras plataformas menos dominantes.
 ![Contract Period Histogram](asset/img/videojuegos_retabilidad.png)
+
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/xDechicero/Venta_de_videojuegos).**
+
+#🚀 Cierre
+
+Gracias por visitar mi portafolio. Cada proyecto que aquí presento refleja mi pasión por transformar datos en decisiones estratégicas y soluciones medibles.
+
+Si estás buscando a alguien que convierta la información en valor para tu empresa, será un gusto conectar contigo.
