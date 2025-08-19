@@ -174,7 +174,7 @@ Este análisis permitió **detectar proyectos con alto potencial comercial y opt
 
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/xDechicero/Venta_de_videojuegos).**
 
-#🚀 Cierre
+# 🚀 Cierre
 
 Gracias por visitar mi portafolio. Cada proyecto que aquí presento refleja mi pasión por transformar datos en decisiones estratégicas y soluciones medibles.
 
